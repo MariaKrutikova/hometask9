@@ -1,0 +1,15 @@
+C:\hometask9\hometask9\task68\bin\Debug\net6.0\task68.exe
+C:\hometask9\hometask9\task68\bin\Debug\net6.0\task68.deps.json
+C:\hometask9\hometask9\task68\bin\Debug\net6.0\task68.runtimeconfig.json
+C:\hometask9\hometask9\task68\bin\Debug\net6.0\task68.dll
+C:\hometask9\hometask9\task68\bin\Debug\net6.0\task68.pdb
+C:\hometask9\hometask9\task68\obj\Debug\net6.0\task68.csproj.AssemblyReference.cache
+C:\hometask9\hometask9\task68\obj\Debug\net6.0\task68.GeneratedMSBuildEditorConfig.editorconfig
+C:\hometask9\hometask9\task68\obj\Debug\net6.0\task68.AssemblyInfoInputs.cache
+C:\hometask9\hometask9\task68\obj\Debug\net6.0\task68.AssemblyInfo.cs
+C:\hometask9\hometask9\task68\obj\Debug\net6.0\task68.csproj.CoreCompileInputs.cache
+C:\hometask9\hometask9\task68\obj\Debug\net6.0\task68.dll
+C:\hometask9\hometask9\task68\obj\Debug\net6.0\refint\task68.dll
+C:\hometask9\hometask9\task68\obj\Debug\net6.0\task68.pdb
+C:\hometask9\hometask9\task68\obj\Debug\net6.0\task68.genruntimeconfig.cache
+C:\hometask9\hometask9\task68\obj\Debug\net6.0\ref\task68.dll
